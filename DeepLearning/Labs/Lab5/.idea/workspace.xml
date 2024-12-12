@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a976c60-9578-4a5d-b6d9-82b17a66993e" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab1/linearRegression/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/linearRegression/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Conbinatorics/reference book/组合数学.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Database/labs/lab1/Lab1-SA24225465.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/linearRegression/.idea/linearRegression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/linearRegression/.idea/linearRegression.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/linearRegression/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/linearRegression/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/linearRegression/lab1-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/linearRegression/lab1-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/linearRegression/lab1-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/linearRegression/lab1-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/linearRegression/lab1-3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/linearRegression/lab1-3-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/linearRegression/lab1-3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/linearRegression/lab1-3-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/bikePredict/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/bikePredict/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/bikePredict/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/bikePredict/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/bikePredict/lab2-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/bikePredict/lab2-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/irisPredict/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/irisPredict/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/irisPredict/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/irisPredict/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/irisPredict/iris_model.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/irisPredict/lab3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/irisPredict/lab3-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/irisPredict/lab3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/irisPredict/lab3-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/CNN/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/CNN/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/CNN/cifar.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/CNN/cifar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/CNN/mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/CNN/mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaggle/.idea/Kaggle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaggle/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaggle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaggle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaggle/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaggle猫狗大战/kaggle/sampleSubmission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaggle猫狗大战/kaggle/test1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaggle猫狗大战/kaggle/train.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实验5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据/bikes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据/iris.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据/kaggle猫狗大战/kaggle/sampleSubmission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据/kaggle猫狗大战/kaggle/test1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据/kaggle猫狗大战/kaggle/train.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ppts/GAN与生产网络.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ppts/优化.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ppts/循环卷积示例.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ppts/迁移学习.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pf5CCK8kBFEQXrawsaU5pGVSJq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab5-1-GRU&RNN.executor": "Run",
+    "Python.Lab5-1-LSTM.executor": "Run",
+    "Python.Lab5-1.executor": "Run",
+    "Python.Lab5-2-LSTM.executor": "Run",
+    "Python.Lab5-2-RNN&GRU.executor": "Run",
+    "Python.Lab5-2.executor": "Run",
+    "Python.Lab5-3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Postgraduate/Software Test/lab/lab3"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.Lab5-3">
+    <configuration name="Lab5-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab5/Lab5-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab5-2-LSTM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab5/Lab5-2-LSTM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab5-2-RNN&amp;GRU" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab5/Lab5-2-RNN&amp;GRU.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab5-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab5/Lab5-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab5-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab5" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab5/Lab5-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab5-3" />
+        <item itemvalue="Python.Lab5-1" />
+        <item itemvalue="Python.Lab5-2-RNN&amp;GRU" />
+        <item itemvalue="Python.Lab5-2-LSTM" />
+        <item itemvalue="Python.Lab5-2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6a976c60-9578-4a5d-b6d9-82b17a66993e" name="更改" comment="" />
+      <created>1733144159757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733144159757</updated>
+    </task>
+    <servers />
+  </component>
+</project>
